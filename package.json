@@ -1,0 +1,22 @@
+{
+  "name": "btcpay-api",
+  "version": "0.0.1",
+  "description": "Wrapper for greenfield BTCPay API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fetzsav/btcpay-api.git"
+  },
+  "author": "fetzsav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fetzsav/btcpay-api/issues"
+  },
+  "homepage": "https://github.com/fetzsav/btcpay-api#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
